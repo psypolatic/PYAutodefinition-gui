@@ -1,6 +1,9 @@
 # PYAutodefinition-gui
 A python app that will give you definitions for a list of words
 
+Definitions are recieved from a public free definition gui (yet to be decided which)
+Gui is made with Tkinter
+
 
 I orignally made a definition app in pythona year ago from writing this but it was messy and lacked gui. 
 
