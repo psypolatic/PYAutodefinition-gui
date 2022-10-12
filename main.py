@@ -9,7 +9,6 @@ def main():
     gui.title("Quick Definitions")
     gui.geometry("500x500")
     gui['bg']='brown'
-    gui.iconbitmap("appicon.ico")
     test_label = Label(gui, text = 'Test input', font=('calibre',10, 'bold'))
 
 
