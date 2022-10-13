@@ -1,0 +1,2 @@
+#$done 1. Add an option for ammount of words you want to return
+#done 2. Add google links for any words it cannot return
